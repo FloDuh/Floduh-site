@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FDF6EC;
+    color: #00796B;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #9FE2BF;
+    padding: 20px;
+}
+header h1 {
+    margin: 0;
+    color: #00796B;
+}
+.tagline {
+    font-size: 1.2em;
+    color: #FF8C8C;
+}
+main {
+    padding: 20px;
+}
+footer {
+    margin-top: 40px;
+    padding: 10px;
+    background-color: #FDF6EC;
+    color: #666;
+}
+footer a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #00796B;
+}
+footer a:hover {
+    text-decoration: underline;
+}
